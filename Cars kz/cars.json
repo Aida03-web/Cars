@@ -1,0 +1,92 @@
+[
+ {
+  "modelName": "Kia Rio",
+  "imageLink": "https://kia.kolauto.kz/images/rio_2.jpg",
+  "id": "1"
+ },
+ {
+  "modelName": "Toyota Camry",
+  "imageLink": "https://motor.ru/imgs/2021/03/25/07/4577323/99d4c5691586749d8576d08bbb76036bd2a431b0.jpg",
+  "id": "2"
+ },
+ {
+  "modelName": "modelName 3",
+  "imageLink": "https://kolesa-uploads.ru/-/0e4ad83e-e0dd-4703-816f-59e96ca942c1/toyota-land-cruiser-final-front2-mini.jpg",
+  "id": "3"
+ },
+ {
+  "modelName": "Nissan Qashqai",
+  "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nissan_Qashqai_Mk2_Facelift.jpg/1200px-Nissan_Qashqai_Mk2_Facelift.jpg",
+  "id": "4"
+ },
+ {
+  "modelName": "Tesla Model X",
+  "imageLink": "https://www.ixbt.com/img/n1/news/2022/1/5/tesla-model-x-p100d-97_large.jpg",
+  "id": "5"
+ },
+ {
+  "modelName": "Range Rover Evoque",
+  "imageLink": "https://landrover.terra-motors.kz/upload/cache/4e/fd/4efd5a2bbdb280bdc74a31c3fc25d9bb.jpg",
+  "id": "6"
+ },
+ {
+  "modelName": "Toyota Fortuner",
+  "imageLink": "https://motor.ru/imgs/2021/08/10/13/4817541/c198646d162a8eafec3c2d80992aebf47933f48b.jpg",
+  "id": "7"
+ },
+ {
+  "modelName": "Lexus LS",
+  "imageLink": "https://cdn.motor1.com/images/mgl/43OlM/s1/2021-lexus-ls-facelift.jpg",
+  "id": "8"
+ },
+ {
+  "modelName": "Lexus LX-570",
+  "imageLink": "https://s.auto.drom.ru/i24253/pubs/4/82311/3637799.jpeg",
+  "id": "9"
+ },
+ {
+  "modelName": "Porche Cayenne",
+  "imageLink": "https://s0.rbk.ru/v6_top_pics/ampresize/media/img/3/82/756250397694823.jpg",
+  "id": "10"
+ },
+ {
+  "modelName": "Lexus RX-350",
+  "imageLink": "https://s.auto.drom.ru/i24234/c/photos/fullsize/lexus/rx350/lexus_rx350_897844.jpg",
+  "id": "11"
+ },
+ {
+  "modelName": "Lamborghini Urus",
+  "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Lamborghini_Urus_20180306_Genf_2018.jpg/1200px-Lamborghini_Urus_20180306_Genf_2018.jpg",
+  "id": "12"
+ },
+ {
+  "modelName": "Toyota Corolla",
+  "imageLink": "https://t1-cms-ru.images.toyota-europe.com/toyotaone/ruru/mob3_tcm-3020-1562777.jpg",
+  "id": "13"
+ },
+ {
+  "modelName": "Nissan Juke",
+  "imageLink": "https://www.zr.ru/_ah/img/amoVlhTvu0bQUkM11yMvDA=h625",
+  "id": "14"
+ },
+ {
+  "modelName": "BMW I8",
+  "imageLink": "https://wroom.ru/i/cars2/bmw_i8_1.jpg",
+  "id": "15"
+ },
+ {
+  "modelName": "BMW X6",
+  "imageLink": "https://avatars.mds.yandex.net/get-verba/1030388/2a0000016d910ee0c5d2f38a020db0cd8a01/cattouch",
+  "id": "16"
+ },
+ {
+  "modelName": "Audi R8",
+  "imageLink": "https://cdn.motor1.com/images/mgl/JmVR6/s1/2019-audi-r8-onlocation.jpg",
+  "id": "17"
+ },
+ {
+  "modelName": "Audi Q8",
+  "imageLink": "https://www.32cars.ru/uploads/images/2020/02/13/ABT-Audi-RS-Q8-8.jpg",
+  "id": "18"
+ }
+]
